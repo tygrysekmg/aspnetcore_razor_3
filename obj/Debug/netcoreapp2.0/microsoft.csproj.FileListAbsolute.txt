@@ -1,0 +1,10 @@
+/home/wieslawamilczuk/microsoft/bin/Debug/netcoreapp2.0/microsoft.deps.json
+/home/wieslawamilczuk/microsoft/bin/Debug/netcoreapp2.0/microsoft.runtimeconfig.json
+/home/wieslawamilczuk/microsoft/bin/Debug/netcoreapp2.0/microsoft.runtimeconfig.dev.json
+/home/wieslawamilczuk/microsoft/bin/Debug/netcoreapp2.0/microsoft.dll
+/home/wieslawamilczuk/microsoft/bin/Debug/netcoreapp2.0/microsoft.pdb
+/home/wieslawamilczuk/microsoft/obj/Debug/netcoreapp2.0/microsoft.csproj.CoreCompileInputs.cache
+/home/wieslawamilczuk/microsoft/obj/Debug/netcoreapp2.0/microsoft.AssemblyInfoInputs.cache
+/home/wieslawamilczuk/microsoft/obj/Debug/netcoreapp2.0/microsoft.AssemblyInfo.cs
+/home/wieslawamilczuk/microsoft/obj/Debug/netcoreapp2.0/microsoft.dll
+/home/wieslawamilczuk/microsoft/obj/Debug/netcoreapp2.0/microsoft.pdb
